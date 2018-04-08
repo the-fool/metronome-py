@@ -1,1 +1,1 @@
-import metronome
+from .metronome import Metronome

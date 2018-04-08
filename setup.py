@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='metronome-py',
-    version='1',
+    version='3.0.0',
     packages=find_packages(),
     license='MIT',
     description='A simple metronome',
